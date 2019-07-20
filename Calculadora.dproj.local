@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/05/07 20:44:17.000.337,=C:\Users\Gabriel Morais\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 20:52:07.000.351,D:\Desenvolvimento\Fontes\Pratica\uMain.pas=C:\Users\Gabriel Morais\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 20:52:07.000.351,D:\Desenvolvimento\Fontes\Pratica\uMain.dfm=C:\Users\Gabriel Morais\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/05/07 20:52:14.000.431,=C:\Users\Gabriel Morais\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 20:52:29.000.870,D:\Desenvolvimento\Fontes\Pratica\uClasseCalculadora.pas=C:\Users\Gabriel Morais\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 20:52:58.000.725,D:\Desenvolvimento\Fontes\Pratica\Calculadora.dproj=C:\Users\Gabriel Morais\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/05/07 22:40:56.000.352,=D:\Desenvolvimento\Fontes\Pratica\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 22:41:14.000.015,D:\Desenvolvimento\Fontes\Pratica\uClasseMetodosUteis.pas=D:\Desenvolvimento\Fontes\Pratica\Unit1.pas</Transaction>
+    <Transaction>2019/05/08 20:34:10.000.071,=D:\Desenvolvimento\Fontes\Pratica\Unit1.pas</Transaction>
+    <Transaction>2019/05/08 20:34:26.000.959,D:\Desenvolvimento\Fontes\Pratica\Unit1.pas=D:\Desenvolvimento\Fontes\Pratica\uInterfaceObjeto.pas</Transaction>
+    <Transaction>2019/05/08 20:38:42.000.031,=D:\Desenvolvimento\Fontes\Pratica\Unit1.pas</Transaction>
+    <Transaction>2019/05/08 20:38:56.000.475,D:\Desenvolvimento\Fontes\Pratica\Unit1.pas=D:\Desenvolvimento\Fontes\Pratica\uClasseSoma.pas</Transaction>
+    <Transaction>2019/05/08 20:45:25.000.295,=D:\Desenvolvimento\Fontes\Pratica\Unit1.pas</Transaction>
+    <Transaction>2019/05/08 20:45:33.000.012,D:\Desenvolvimento\Fontes\Pratica\Unit1.pas=D:\Desenvolvimento\Fontes\Pratica\uClasseSubtrair.pas</Transaction>
+    <Transaction>2019/05/08 20:49:31.000.444,=D:\Desenvolvimento\Fontes\Pratica\Unit1.pas</Transaction>
+    <Transaction>2019/05/08 20:49:43.000.036,D:\Desenvolvimento\Fontes\Pratica\Unit1.pas=D:\Desenvolvimento\Fontes\Pratica\uClasseMultiplicar.pas</Transaction>
+    <Transaction>2019/05/08 20:51:43.000.490,=D:\Desenvolvimento\Fontes\Pratica\Unit1.pas</Transaction>
+    <Transaction>2019/05/08 20:51:53.000.564,D:\Desenvolvimento\Fontes\Pratica\Unit1.pas=D:\Desenvolvimento\Fontes\Pratica\uClasseDividir.pas</Transaction>
+    <Transaction>2019/05/08 21:54:34.000.148,=D:\Desenvolvimento\Fontes\Pratica\Unit1.pas</Transaction>
+    <Transaction>2019/05/08 21:54:48.000.746,D:\Desenvolvimento\Fontes\Pratica\Unit1.pas=D:\Desenvolvimento\Fontes\Pratica\uClasseOperacoes.pas</Transaction>
+    <Transaction>2019/05/08 22:56:29.000.107,=D:\Desenvolvimento\Fontes\Pratica\Unit1.pas</Transaction>
+    <Transaction>2019/05/08 22:56:43.000.095,D:\Desenvolvimento\Fontes\Pratica\Unit1.pas=D:\Desenvolvimento\Fontes\Pratica\uCalculadoraEventos.pas</Transaction>
+  </Transactions>
+</BorlandProject>
